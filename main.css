@@ -1,0 +1,9 @@
+html, body{
+	background: grey;
+}
+
+.coin{
+	margin-left: 2em;
+	margin-bottom: 1em;
+	border: solid 2px black;
+}
