@@ -7,3 +7,18 @@ html, body{
 	margin-bottom: 1em;
 	border: solid 2px black;
 }
+
+.coin ul{
+	margin-left: 6em;
+}
+
+.coin-logo{
+	width: 5em;
+	margin:1em;
+	float:left;
+	display:block;
+}
+
+.id-num{
+	display:none;
+}
